@@ -1,9 +1,9 @@
 # Espaloma-0.3.0-manuscript
-This repository summarizes the repositories used for espaloma-0.3.0 paper. More details about the scripts and data can be found from individual repositories listed below.
+This repository summarizes the repositories used for espaloma-0.3.0 paper. More details can be found below.
 
 ## Related repositories
 **Create QM datasets for RNA molecules**  
-Following repositories contain scripts and data to create new QM datasets for RNA molecules. It also includes sample scripts to prepare for [QCArchive submission](https://github.com/openforcefield/qca-dataset-submission).
+Following repositories contain scripts and data to create new QM datasets for RNA molecules. It includes sample scripts for [QCArchive submission](https://github.com/openforcefield/qca-dataset-submission).
 - Diverse RNA representatives (basepair, triple basepair, and trinucloetide)
     - https://github.com/choderalab/rna_bgsu
 - RNA trinculeodites
@@ -19,8 +19,9 @@ This repository contains scripts used to download the QM datasets from [QCArchiv
 This repository contains scripts to preprocess, train, and evaluate the refitted espaloma model.
 - https://github.com/kntkb/refit-espaloma
 
-**Protein-ligand benchmark using Perses**  
-This repository contains scripts to run the protein-ligand binding affinity benchmark using [Perses](https://github.com/choderalab/perses).  
+**Alchemical protein-ligand benchmark experiment using Perses**  
+This repository contains scripts to run the alchemical protein-ligand free energy calculaiton using [Perses](https://github.com/choderalab/perses) to assess espaloma force field.
+- https://github.com/kntkb/pl-benchmark-espaloma-experiment
 
 # Contributors
 
