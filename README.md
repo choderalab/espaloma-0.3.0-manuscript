@@ -12,11 +12,11 @@ Following repositories contain scripts and data to create new QM datasets for RN
     - https://github.com/choderalab/create-rna-nucleoside-dataset
 
 ### 2. Download QCA datasets
-This repository contains scripts used to download the QM datasets from [QCArchive](https://qcarchive.molssi.org/).
+This repository contains scripts used to download the QM data from [QCArchive](https://qcarchive.molssi.org/).
 - https://github.com/choderalab/download-qca-datasets
 
 ### 3. Refitting Espaloma with energies and forces
-This repository contains scripts to preprocess, train, and evaluate the refitted espaloma model.
+This repository contains scripts to preprocess the QM data saved in HDF5 into dgl graphs, refit espaloma, and evaluate the refitted espaloma model.
 - https://github.com/choderalab/refit-espaloma
 
 ### 4. Alchemical protein-ligand benchmark experiment using Perses
