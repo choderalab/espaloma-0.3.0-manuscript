@@ -2,7 +2,7 @@
 This repository summarizes the repositories to create espaloma-0.3.0. More details can be found below.
 
 ## Related repositories
-### 1. Download QCA datasets
+### 1. Download QCArchive datasets
 This repository contains scripts used to download the QM data from [QCArchive](https://qcarchive.molssi.org/).
 - https://github.com/choderalab/download-qca-datasets
 
@@ -11,7 +11,7 @@ This repository contains scripts to preprocess the QM data saved in HDF5 into dg
 - https://github.com/choderalab/refit-espaloma
 
 ### 3. Alchemical protein-ligand benchmark experiment using Perses
-This repository contains scripts to run the alchemical protein-ligand free energy calculaiton using [Perses](https://github.com/choderalab/perses) to assess espaloma force field.
+This repository contains scripts to run the alchemical protein-ligand free energy calculaiton using [Perses](https://github.com/choderalab/perses) using espaloma force field.
 - https://github.com/choderalab/pl-benchmark-espaloma-experiment
 
 ## Contributors
