@@ -15,8 +15,13 @@ This repository contains scripts to run the alchemical protein-ligand free energ
 - https://github.com/choderalab/pl-benchmark-espaloma-experiment
 
 ## Contributors
-
-## License
+- Kenichiro Takaba
+- Iván Pulido
+- John D. Chodera
+- Yuanqing Wang
 
 ## Citation
+Preprint in preparation
+
+## License
 
