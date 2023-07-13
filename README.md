@@ -17,11 +17,10 @@ This repository contains scripts to run the alchemical protein-ligand free energ
 ## Contributors
 - Kenichiro Takaba
 - Iván Pulido
+- Mike Henry
+- Hugo MacDermott-Opeskin
 - John D. Chodera
 - Yuanqing Wang
 
 ## Citation
 Preprint in preparation
-
-## License
-
