@@ -24,3 +24,6 @@ This repository contains scripts to run the alchemical protein-ligand free energ
 
 ## Citation
 Preprint in preparation
+
+## License
+[MIT license](https://opensource.org/licenses/MIT)
