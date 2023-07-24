@@ -23,7 +23,16 @@ This repository contains scripts to run the alchemical protein-ligand free energ
 - Yuanqing Wang
 
 ## Citation
-Preprint in preparation
+```
+@misc{takaba2023espaloma030,
+      title={Espaloma-0.3.0: Machine-learned molecular mechanics force field for the simulation of protein-ligand systems and beyond}, 
+      author={Kenichiro Takaba and Iván Pulido and Mike Henry and Hugo MacDermott-Opeskin and John D. Chodera and Yuanqing Wang},
+      year={2023},
+      eprint={2307.07085},
+      archivePrefix={arXiv},
+      primaryClass={physics.chem-ph}
+}
+```
 
 ## License
 [MIT license](https://opensource.org/licenses/MIT)
