@@ -1,11 +1,13 @@
 # Espaloma-0.3.0-manuscript
-This repository summarizes the repositories to create espaloma-0.3.0
+This repository summarizes the repositories to create and validate `espaloma-0.3`
 
 ## Manifest
 - `01-download-qca-dataset/` - Download QM data from [QCArchive](https://qcarchive.molssi.org/)
 - `02-refit-espaloma/` - Refit espaloma using QM datasets downloaded from QCArchive
 - `03-geometry-benchmark` - Small molecule geometry benchmark
-- `04-protein-ligand-benchmark/` - Alchemical protein-ligand binding free energy benchmark
+- `04-protein-ligand-alchemy/` - Alchemical protein-ligand binding free energy benchmark
+- `05-protein-ligand-vanilla/` - Protein-ligand vanilla MD simulation
+
 
 ## Contributors
 - Kenichiro Takaba
